@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kgregory413
 - 👀 I’m interested in Java, C#, Python, 3D Printing, Raspberry Pi, and VR technology!
-- 🌱 I’m currently learning system development and Java programming.
+- 🌱 I’m currently learning database design and cloud computing.
 - 📫 How to reach me: kgregory413@gmail.com
